@@ -1,5 +1,5 @@
 {
-  "name": "hello_cloud_run",
+  "name": "ray",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "ray",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
